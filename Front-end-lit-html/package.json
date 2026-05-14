@@ -1,0 +1,19 @@
+{
+  "name": "front-end-lit-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "lit-html": "^3.3.2",
+    "page": "^1.11.6",
+    "vite": "^8.0.11"
+  }
+}
