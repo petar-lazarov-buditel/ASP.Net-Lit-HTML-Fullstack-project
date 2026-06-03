@@ -1,0 +1,3 @@
+DELETE FROM Houses
+WHERE Id > 1000
+
