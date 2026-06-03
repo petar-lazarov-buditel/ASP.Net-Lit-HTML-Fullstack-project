@@ -1,0 +1,26 @@
+# ASP.NET build folders
+bin/
+obj/
+.vs/
+
+# Frontend build folders
+node_modules/
+
+# Logs
+*.log
+
+# User-specific files
+*.user
+*.suo
+
+# Database files
+*.db
+*.mdf
+*.ldf
+*.sqlite
+
+# Cache
+*.lscache
+
+# Publish output
+publish/
